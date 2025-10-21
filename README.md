@@ -2,6 +2,9 @@
 
 This is a simple ASP.NET Core Web API project that acts as a proxy for the Visual Crossing weather service. It demonstrates key backend development concepts including third-party API integration, caching, and secure key management.
 
+This project is based on the Weather API Wrapper Service project from roadmap.sh.
+Project URL: https://roadmap.sh/projects/weather-api-wrapper-service
+
 🚀 Features:
 
 -📡 Fetches real-time weather data for any city.
